@@ -1,0 +1,287 @@
+[
+    {
+        "VC_name": "Accel",
+        "contacts": "George Kurtz, Daniel Dines, Daniel Ek, Peter Reinhardt, Lynn Jurich, Micha Kaufman, Whitney Wolfe Herd",
+        "industries_invested_in": [
+            "Technology",
+            "Software",
+            "AI",
+            "Digital transformation",
+            "Security"
+        ],
+        "investment_rounds": {
+            "Accel": [
+                "Series B",
+                "Series C",
+                "Series D",
+                "Series E",
+                "IPO"
+            ],
+            "George Kurtz": [
+                "Series A",
+                "Series B",
+                "Series C",
+                "Series D",
+                "Series E",
+                "IPO"
+            ],
+            "Daniel Dines": [
+                "Series A",
+                "Series B",
+                "Series C",
+                "Series D",
+                "Acquired"
+            ],
+            "Daniel Ek": [
+                "Series A",
+                "Series B",
+                "Series C",
+                "Series D",
+                "Acquired"
+            ],
+            "Peter Reinhardt": [
+                "Series B",
+                "Series C",
+                "Series D",
+                "Series E",
+                "IPO"
+            ],
+            "Lynn Jurich": [
+                "Initial Investment",
+                "Follow-on"
+            ],
+            "Micha Kaufman": [
+                "Series A",
+                "IPO"
+            ],
+            "Whitney Wolfe Herd": []
+        }
+    },
+    {
+        "VC name": "Benchmark",
+        "contacts": {
+            "headquarters": "140 New Montgomery StreetSan Francisco, California 94105",
+            "other office": "2965 Woodside RoadWoodside, California 94062",
+            "more info": "@benchmark \u00bb \u00a9 . All rights reserved."
+        },
+        "industries": [
+            "Technology",
+            "Consumer Internet",
+            "Enterprise Software"
+        ],
+        "investment rounds": [
+            "Seed",
+            "Series A",
+            "Series B",
+            "Series C",
+            "Additional Rounds"
+        ]
+    },
+    {
+        "VC name": "Sequoia Capital",
+        "contacts": "Website: https://www.sequoiacap.com/",
+        "industries": "Technology, Consumer, Healthcare, Financial Services",
+        "investment rounds": "Seed, Series A, Series B, Series C, Growth"
+    },
+    {
+        "VC name": "Kleiner Perkins",
+        "contacts": "Please contact [email protected] with any questions regarding our privacy practices.",
+        "industries": [
+            "Video Messages",
+            "Employee data and workplace systems",
+            "Collaborative design",
+            "Commerce",
+            "AI-powered productivity",
+            "Search",
+            "Medical imaging",
+            "Inequality",
+            "Education",
+            "Language learning",
+            "Food delivery",
+            "Mental health",
+            "PC utility",
+            "Chronic disease",
+            "Software robotics",
+            "Web development",
+            "Workplace collaboration",
+            "Fitness",
+            "Biotechnology",
+            "Storytelling in video games",
+            "3D printing",
+            "Streaming music",
+            "Data analytics",
+            "Smart home products",
+            "Credit card debt",
+            "Portable computing",
+            "Sustainable proteins",
+            "Networked computing",
+            "Web browser",
+            "Fraud prevention and authentication",
+            "Relational databases",
+            "Online connectivity",
+            "E-signatures",
+            "Packet-based routers",
+            "Invisible orthodontics",
+            "Remote access computing",
+            "Energy density batteries",
+            "Cancer therapies",
+            "Programmable logic",
+            "Security analytics",
+            "Home security",
+            "Trusted internet"
+        ],
+        "investment rounds": [
+            "Seed funding",
+            "Series A funding",
+            "Series B funding",
+            "Series C funding",
+            "Series D funding",
+            "Series E funding"
+        ]
+    },
+    {
+        "VC name": "Kleiner Perkins",
+        "contacts": "[email protected]",
+        "industries that they invest in": [
+            "Technology",
+            "Healthcare",
+            "Education",
+            "Finance",
+            "Entertainment",
+            "Biotechnology",
+            "Food and Beverage",
+            "Security"
+        ],
+        "investment rounds that they participate/lead": [
+            "Seed",
+            "Series A",
+            "Series B",
+            "Series C",
+            "Expansion"
+        ]
+    },
+    {
+        "VC name": "Matrix Partners",
+        "contacts": "LP LOGIN FOR ENTREPRENEURS, PRESS KIT",
+        "industries they invest in": [
+            "Software-Defined Hardware",
+            "Applied AI",
+            "B2B SaaS",
+            "Digital Health",
+            "Chips & Components",
+            "Dev Tools & Infrastructure",
+            "Fintech"
+        ],
+        "investment rounds they participate/lead": "From concept to Series A"
+    },
+    {
+        "VC_name": "500 Global",
+        "contacts": {
+            "locations": [
+                "DUBAI",
+                "AUSTIN",
+                "SAN FRANCISCO",
+                "GIZA",
+                "ISTANBUL",
+                "KUALA LUMPUR",
+                "LAS VEGAS",
+                "MENLO PARK",
+                "MEXICO CITY",
+                "MIAMI",
+                "NEW YORK",
+                "OAKLAND",
+                "RIYADH",
+                "SEOUL",
+                "SINGAPORE",
+                "WASHINGTON DC",
+                "LONDON",
+                "BARCELONA",
+                "LISBON",
+                "TBILISI",
+                "WARSAW",
+                "CAIRO",
+                "LAGOS",
+                "BANGKOK",
+                "JAKARTA",
+                "MANILA",
+                "TAIPEI",
+                "TOKYO"
+            ],
+            "social_media": {
+                "linkedin": true,
+                "facebook": true,
+                "instagram": true,
+                "twitter": true
+            }
+        },
+        "industries_invested_in": [
+            "Venture Education",
+            "Insights"
+        ],
+        "investment_rounds": [
+            "Seed funding",
+            "Series A",
+            "Series B",
+            "Series C",
+            "Growth funding"
+        ]
+    },
+    {
+        "VC Name": "500 Global",
+        "Contacts": {
+            "Headquarters": "San Francisco",
+            "Locations": [
+                "Dubai",
+                "Austin",
+                "San Francisco",
+                "Istanbul",
+                "Kuala Lumpur",
+                "Las Vegas",
+                "Menlo Park",
+                "Mexico City",
+                "Miami",
+                "New York",
+                "Oakland",
+                "Riyadh",
+                "Seoul",
+                "Singapore",
+                "Washington DC",
+                "London",
+                "Barcelona",
+                "Lisbon",
+                "Tbilisi",
+                "Warsaw",
+                "Cairo",
+                "Lagos",
+                "Bangkok",
+                "Jakarta",
+                "Manila",
+                "Taipei",
+                "Tokyo"
+            ]
+        },
+        "Industries": [
+            "Venture Education",
+            "Insights"
+        ],
+        "Investment Rounds": [
+            "Seed",
+            "Series A",
+            "Series B",
+            "Series C",
+            "IPO"
+        ]
+    },
+    {
+        "VC name": "Spark Capital",
+        "contacts": "Contact Us",
+        "industries": "Products we love, people, crazy, dreams, design, brains, reality, unreality, reinvention, new markets, weird stuff, guts, independence, hustle, distinction, art, action, humanness, idealists, oddities, optimism, communities, creation, surprises, technologists with the heart of an artist, each other",
+        "investment rounds": "Series B"
+    },
+    {
+        "VC name": "Insight Partners",
+        "contacts": "Bonn, Germany ScaleUp: LeanIX, Tel Aviv, Israel ScaleUp: monday.com, Draper, UT, Mountain View, CA ScaleUp: SentinelOne, Wilmington, NC ScaleUp: nCino, Atlanta, GA, San Francisco, CA x2, Farmington, UT Grow to IPO: Pluralsight, Provo, UT",
+        "industries": "Enterprise Architecture, Sales Growth, Channel Partner Strategy, Fintech, Cybersecurity, Healthtech, Business Operations, Visual Collaboration, EdTech, DevOps, Customer Experience Category",
+        "investment rounds": "Series C, Acquisition, IPO, ScaleUp, Growth Buyout, M&A"
+    }
+]
